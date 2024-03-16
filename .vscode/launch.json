@@ -1,0 +1,626 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Max",
+      "request": "launch",
+      "mainClass": "Max",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "mergeSort",
+      "request": "launch",
+      "mainClass": "mergeSort",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "rotateArr",
+      "request": "launch",
+      "mainClass": "rotateArr",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "firstUniqueChar",
+      "request": "launch",
+      "mainClass": "firstUniqueChar",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "JumpGame",
+      "request": "launch",
+      "mainClass": "JumpGame",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "sortColours",
+      "request": "launch",
+      "mainClass": "sortColours",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "DoubleHashing",
+      "request": "launch",
+      "mainClass": "DoubleHashing",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "HashingQP",
+      "request": "launch",
+      "mainClass": "HashingQP",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "HashingLP",
+      "request": "launch",
+      "mainClass": "HashingLP",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "MaxHeap",
+      "request": "launch",
+      "mainClass": "MaxHeap",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "LowestCommAnsister",
+      "request": "launch",
+      "mainClass": "LowestCommAnsister",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "DeletionInBST",
+      "request": "launch",
+      "mainClass": "DeletionInBST",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "TopologicalOrder",
+      "request": "launch",
+      "mainClass": "TopologicalOrder",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "DirectedCycleGraph",
+      "request": "launch",
+      "mainClass": "DirectedCycleGraph",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "NoOfIsland",
+      "request": "launch",
+      "mainClass": "NoOfIsland",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "revVowel",
+      "request": "launch",
+      "mainClass": "revVowel",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "CompressStr",
+      "request": "launch",
+      "mainClass": "CompressStr",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "maxProfitStock",
+      "request": "launch",
+      "mainClass": "maxProfitStock",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "RotateMatrix",
+      "request": "launch",
+      "mainClass": "RotateMatrix",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "SolutionRottenOrgs",
+      "request": "launch",
+      "mainClass": "SolutionRottenOrgs",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "printAllPathsOfGraph",
+      "request": "launch",
+      "mainClass": "printAllPathsOfGraph",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "AdjacencyList",
+      "request": "launch",
+      "mainClass": "AdjacencyList",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "sum",
+      "request": "launch",
+      "mainClass": "sum",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "FirstLastPosInArray",
+      "request": "launch",
+      "mainClass": "FirstLastPosInArray",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "WaterStoring",
+      "request": "launch",
+      "mainClass": "WaterStoring",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "DFSTraversal",
+      "request": "launch",
+      "mainClass": "DFSTraversal",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "BFSTravesal",
+      "request": "launch",
+      "mainClass": "BFSTravesal",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "decodeString",
+      "request": "launch",
+      "mainClass": "decodeString",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "partitionList",
+      "request": "launch",
+      "mainClass": "partitionList",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "scorePaanthisis",
+      "request": "launch",
+      "mainClass": "scorePaanthisis",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "SlidingWindowMax",
+      "request": "launch",
+      "mainClass": "SlidingWindowMax",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "reorderLL",
+      "request": "launch",
+      "mainClass": "reorderLL",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "GraterNextLL",
+      "request": "launch",
+      "mainClass": "GraterNextLL",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "graterNextLL",
+      "request": "launch",
+      "mainClass": "graterNextLL",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "oddEvenLL",
+      "request": "launch",
+      "mainClass": "oddEvenLL",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "RotateLL",
+      "request": "launch",
+      "mainClass": "RotateLL",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "successor",
+      "request": "launch",
+      "mainClass": "successor",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "SubTree",
+      "request": "launch",
+      "mainClass": "SubTree",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "diameterofLongestPathOfTree",
+      "request": "launch",
+      "mainClass": "diameterofLongestPathOfTree",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "heightTree",
+      "request": "launch",
+      "mainClass": "heightTree",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "mirrorImageTree",
+      "request": "launch",
+      "mainClass": "mirrorImageTree",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "sumOfNodes",
+      "request": "launch",
+      "mainClass": "sumOfNodes",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "postfixExpTreeFormUsingStack",
+      "request": "launch",
+      "mainClass": "postfixExpTreeFormUsingStack",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "minStack",
+      "request": "launch",
+      "mainClass": "minStack",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "CountNodes",
+      "request": "launch",
+      "mainClass": "CountNodes",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "levelOrderTraversal",
+      "request": "launch",
+      "mainClass": "levelOrderTraversal",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "inorderTraversal",
+      "request": "launch",
+      "mainClass": "inorderTraversal",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "postTraversal",
+      "request": "launch",
+      "mainClass": "postTraversal",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "preorderTraversal",
+      "request": "launch",
+      "mainClass": "preorderTraversal",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "preorderTreeFormation",
+      "request": "launch",
+      "mainClass": "preorderTreeFormation",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "polyAddition",
+      "request": "launch",
+      "mainClass": "polyAddition",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "revelCardQueue",
+      "request": "launch",
+      "mainClass": "revelCardQueue",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "Josephus",
+      "request": "launch",
+      "mainClass": "Josephus",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "QueueUsingStack",
+      "request": "launch",
+      "mainClass": "QueueUsingStack",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "palindrome",
+      "request": "launch",
+      "mainClass": "palindrome",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "deleteNthNodeFromEnd",
+      "request": "launch",
+      "mainClass": "deleteNthNodeFromEnd",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "reverseLL",
+      "request": "launch",
+      "mainClass": "reverseLL",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "LinkList$reverseLL",
+      "request": "launch",
+      "mainClass": "LinkList$reverseLL",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "CountPaths",
+      "request": "launch",
+      "mainClass": "CountPaths",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "StringPermutation",
+      "request": "launch",
+      "mainClass": "StringPermutation",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "keypadCombination",
+      "request": "launch",
+      "mainClass": "keypadCombination",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "uniqueSubString",
+      "request": "launch",
+      "mainClass": "uniqueSubString",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "subString",
+      "request": "launch",
+      "mainClass": "subString",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "removeDuplicate",
+      "request": "launch",
+      "mainClass": "removeDuplicate",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "removeDuplicte",
+      "request": "launch",
+      "mainClass": "removeDuplicte",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "pushEndArr",
+      "request": "launch",
+      "mainClass": "pushEndArr",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "checkSortedArr",
+      "request": "launch",
+      "mainClass": "checkSortedArr",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "firstLastOcc",
+      "request": "launch",
+      "mainClass": "firstLastOcc",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "towerOfHanoi",
+      "request": "launch",
+      "mainClass": "towerOfHanoi",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "minPageSearch",
+      "request": "launch",
+      "mainClass": "minPageSearch",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "RotatedBinarySearch",
+      "request": "launch",
+      "mainClass": "RotatedBinarySearch",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "InfineteBinarySearch",
+      "request": "launch",
+      "mainClass": "InfineteBinarySearch",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "BinarySearch",
+      "request": "launch",
+      "mainClass": "BinarySearch",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "InsertionSort",
+      "request": "launch",
+      "mainClass": "InsertionSort",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "SelectionSort",
+      "request": "launch",
+      "mainClass": "SelectionSort",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "BubbleSort",
+      "request": "launch",
+      "mainClass": "BubbleSort",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "stkMarix",
+      "request": "launch",
+      "mainClass": "stkMarix",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "stkHisto",
+      "request": "launch",
+      "mainClass": "stkHisto",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "stackq5Evaluation",
+      "request": "launch",
+      "mainClass": "stackq5Evaluation",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "stackq4Pree",
+      "request": "launch",
+      "mainClass": "stackq4Pree",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "stackq3Post",
+      "request": "launch",
+      "mainClass": "stackq3Post",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "stcakq2",
+      "request": "launch",
+      "mainClass": "stcakq2",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "stackq1",
+      "request": "launch",
+      "mainClass": "stackq1",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "StackArryList",
+      "request": "launch",
+      "mainClass": "StackArryList",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "stacklist",
+      "request": "launch",
+      "mainClass": "stacklist",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "type": "java",
+      "name": "stack",
+      "request": "launch",
+      "mainClass": "stack",
+      "projectName": "Anushka Shendge_db448b1e"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/Anushka Shendge",
+      "program": "d:/Anushka Shendge/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

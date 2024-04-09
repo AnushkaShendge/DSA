@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "Solution",
+      "projectName": "DSA_77514479"
+    },
+    {
+      "type": "java",
       "name": "Max",
       "request": "launch",
       "mainClass": "Max",
@@ -610,8 +617,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Anushka Shendge",
-      "program": "d:/Anushka Shendge/build/Debug/outDebug",
+      "cwd": "d:/DSA",
+      "program": "d:/DSA/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
